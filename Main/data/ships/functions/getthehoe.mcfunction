@@ -1,0 +1,1 @@
+give @p golden_hoe{display:{Name:'{"text":"ShipWheel","color":"#0F62AB","bold":true}'},CustomModelData:0001,ShipWheel:1b} 1
