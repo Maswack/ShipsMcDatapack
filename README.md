@@ -15,6 +15,13 @@ Copy this repository, then write ```%appdata%``` , go to -> .minecraft -> saves 
 + 1.18.x ---> ```8```
 
 # How to build your first ship ?
+The ship on level1 has this parameters (from command block):
++ ```Length_Z: -2  <--> 4```
++ ```Width_X: -1 <--> 1```
++ ```Height_Y: -2 <--> 3```
+
+#### build in the area given above, and everything should work fine.
+* For more available builds open Readme_ShipsLength.txt*
 
 
 
